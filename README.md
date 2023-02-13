@@ -1,4 +1,4 @@
-# Task
+# Task 1
 
 The three gestures used in base Rock Paper Scissors are rock, paper,
 and scissors. The way these are scored is as such: Rock beats Scissors,
