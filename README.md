@@ -7,6 +7,7 @@ We're definitely going to need a way to decide who has won and who has lost, or
 whether the round has ended in a draw. Using the rules provided, give us an
 engine for deciding this based on the player's moves.
 
+
 Rock Beats Scissors
 As a player, I want rock to beat scissors. So that I can play with rules
 I'm familiar with.
